@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parth Kothari, currently a first year MSc(astronomy) student at IIT indore.
+- 👋 Hi, I’m Parth Kothari, currently a Second year MSc(astronomy) student at IIT indore.
 - I am currently interested in exploring Cosmology , specifically the period between epoch of reionization and the present time.
-- My MSc project is based on exploring Higher order statistics for Line Intensity mapping technique which will be the next new thing when SKA and many other telescopes would start working.
-- Trying to learn skills for data analytics and data science roles.
+- MSc project: Constraining CO model parameters and HI model parameters through MCMC techniques using the COMAP and MeerKat detections. 
+- Currently updating A power spectrum code written in C language and learning DSA.
